@@ -1,4 +1,4 @@
-# onboarding_login 2
+# onboarding_login_plan_trip
 
 A new Flutter project.
 
